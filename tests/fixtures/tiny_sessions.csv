@@ -1,0 +1,10 @@
+session_id,date,session_start,brand,channel,platform,user_id,logged_in,used_pay_bill,used_view_usage,used_ai_chat,product_view,add_to_cart,checkout_start,payment,order_complete,order_value
+1,2026-06-01,2026-06-01 10:00:00,Nimbus Wireless,app,wireless_app,1,true,true,false,false,true,true,true,true,true,100.0
+2,2026-06-01,2026-06-01 11:00:00,Nimbus Wireless,app,wireless_app,2,true,false,true,false,true,true,true,true,false,
+3,2026-06-01,2026-06-01 12:00:00,Nimbus Wireless,app,wireless_app,3,true,false,false,false,true,true,false,false,false,
+4,2026-06-01,2026-06-01 13:00:00,Nimbus Wireless,app,wireless_app,,false,false,false,false,true,false,false,false,false,
+5,2026-06-01,2026-06-01 14:00:00,Nimbus Wireless,app,wireless_app,,false,false,false,false,false,false,false,false,false,
+6,2026-06-03,2026-06-03 10:00:00,Nimbus Wireless,app,wireless_app,1,true,false,false,true,true,true,true,true,true,50.0
+7,2026-06-20,2026-06-20 09:00:00,Nimbus Wireless,app,wireless_app,,false,false,false,false,false,false,false,false,false,
+8,2026-06-02,2026-06-02 09:00:00,Nimbus Prepaid,web,prepaid_web,10,true,true,false,false,true,false,false,false,false,
+9,2026-06-02,2026-06-02 10:00:00,Nimbus Prepaid,web,prepaid_web,,false,false,false,false,true,true,true,false,false,

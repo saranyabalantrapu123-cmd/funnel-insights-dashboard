@@ -1,0 +1,15 @@
+[project]
+name = "funnel-insights-dashboard"
+version = "0.1.0"
+description = "Cross-platform funnel analytics with a deterministic insight engine and an LLM summary/Q&A layer."
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "Siva Saranya Balantrapu" }]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 120

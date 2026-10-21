@@ -1,0 +1,18 @@
+# Generated data and outputs (recreate with `make data` / `make demo` / `make eval`)
+data/
+reports/
+!tests/fixtures/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Secrets / local
+.env
+.DS_Store
+.streamlit/secrets.toml
